@@ -1,0 +1,15 @@
+html{scroll-behavior:smooth;}
+h1{   color: brown;
+
+    background-color: blue;}
+h2{
+    color: brown;
+
+    background-color: blue;}
+p{text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    background-color: gray;
+    font-style: italic;
+}
